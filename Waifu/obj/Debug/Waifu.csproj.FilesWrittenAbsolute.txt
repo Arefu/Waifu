@@ -1,0 +1,10 @@
+/home/johnathon/RiderProjects/Waifu/Waifu/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/johnathon/RiderProjects/Waifu/Waifu/bin/Debug/Waifu.pdb
+/home/johnathon/RiderProjects/Waifu/Waifu/bin/Debug/Waifu.exe
+/home/johnathon/RiderProjects/Waifu/Waifu/obj/Debug/Waifu.exe
+/home/johnathon/RiderProjects/Waifu/Waifu/obj/Debug/Waifu.pdb
+/home/johnathon/Documents/Projects/RiderProjects/Waifu/Waifu/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/johnathon/Documents/Projects/RiderProjects/Waifu/Waifu/bin/Debug/Waifu.pdb
+/home/johnathon/Documents/Projects/RiderProjects/Waifu/Waifu/bin/Debug/Waifu.exe
+/home/johnathon/Documents/Projects/RiderProjects/Waifu/Waifu/obj/Debug/Waifu.exe
+/home/johnathon/Documents/Projects/RiderProjects/Waifu/Waifu/obj/Debug/Waifu.pdb
